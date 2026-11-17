@@ -1,3 +1,7 @@
-# Project Screenshots
+## 📸 Project Output Screenshots
 
-Screenshots of the IMDb Sentiment Analysis project.
+### Dataset Output
+![Dataset Output](screenshots/movies-dataset-output.png)
+
+### SVM Model Output
+![SVM Output](screenshots/svm-output.png)
